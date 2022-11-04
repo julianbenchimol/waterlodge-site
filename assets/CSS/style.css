@@ -1,0 +1,12 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+#header-main {
+    height: 150px;
+}
+
+.carousel-control.left, .carousel-control.right {
+    left: 0;
+    z-index: 1;
+}
