@@ -1,15 +1,10 @@
-var edenModelButton = $("#eden-model-button");
-var oasisModelButton = $("#oasis-model-button");
-var mirageModelButton = $("#mirage-model-button");
+var modernModelButton = $('#modern-model-button');
+var apartmentModelButton = $('#apartment-model-button');
 
-edenModelButton.on('click', function(){
-    document.location = "https://www.waterlodge.co.uk/waterlodge-range/waterlodge-eden/";
+modernModelButton.on('click', function(){
+    document.location = './modern-models.html';
 });
 
-oasisModelButton.on('click', function(){
-    document.location = 'https://www.waterlodge.co.uk/waterlodge-range/waterlodge-oasis/'
-});
-
-mirageModelButton.on('click', function(){
-    document.location = 'https://www.waterlodge.co.uk/waterlodge-range/waterlodge-mirage/';
+apartmentModelButton.on('click', function(){
+    document.location = './apartment-models.html';
 });
