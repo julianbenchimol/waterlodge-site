@@ -1,0 +1,66 @@
+Modern 11 Specs:
+Net prices:$109,695.99
+Width: 13.7ft.
+Length: 37ft.
+Total height: 11ft. / Height Above Water: 8.5-9ft. (depending on load)
+Draft: 1ft; polyethylene floats
+Weight: 7 tons
+
+Modern 15 Specs:
+Net prices: $133,624.00
+Width: 16ft.
+Length: 49ft.
+Total height: 11ft. / Height Above Water: 8.5-9ft. (depending on load)
+Draft: 1ft.; polyethylene floats
+Weight: 13 tons
+
+Apart XS:
+Net prices: $84,274.11
+Width: 10ft.
+Length: 8ft.
+Total height:  11ft/ Height Above Water: 9-9.5ft. (depending on load)
+Draft: 1.5ft.; polyethylene floats
+
+Apart M:
+Net prices: $95,553.43
+>Width: 12ft.
+Length: 31ft.
+Total height: 11ft. / Height Above Water: 9-9.5ft. (depending on load)
+Draft: 1.5ft.; polyethylene floats
+
+Apart L:
+Net prices: $133,861.73
+Width: 14ft.
+Length: 37ft.
+Total height: 11ft. / Height Above Water: 8.5-9ft. (depending on load)
+Draft: 1.5ft.; polyethylene floats
+Weight: 7 tons
+
+Apart L (long):
+Net prices: $151,763.77
+Width: 14ft.
+Length: 39ft.
+Total height: 11ft. / Height Above Water: 8.5-9ft. (depending on load)
+Draft: 1.5ft.; polyethylene floats
+Weight: 7 tons
+
+Apart EL:
+Net prices: $178,838.82
+Width: 15ft. (w/ External Platforms: 16ft.)
+Length: 44ft. (w/ External Platforms: 45ft.)
+Total height: 11ft. / Height Above Water: 8.5-9ft. (depending on load)
+Draft: 1.5ft.; polyethylene floats
+
+Apart XL:
+Net prices: $175,816.31
+Width: 16ft.
+Length: 41ft.
+Total height: 11ft. / Height Above Water: 8.5-9ft. (depending on load)
+Draft: 1.5ft.; polyethylene floats, Steel construction - catamaran.
+
+Apart XXL:
+Net prices: $210,106.17
+Width: 16ft.
+Length: 49ft.
+Total height: 11ft. / Height Above Water: 9.5-10ft. (depending on load)
+Draft: 1-1.5ft; polyethylene floats on a steel structure, catamaran.
